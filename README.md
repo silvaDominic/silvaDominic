@@ -1,5 +1,5 @@
 # Hey there! 👋 
-## My name's Dominic and I'm an software engineer
+## My name's Dominic and I'm a software engineer
 
 Professionally, I work as a front end developer specializing in core UI development, technical migrations, and project architecture,  Privately, I'm always working on something I'd want to see in the world, software or otherwise.
 
