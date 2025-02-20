@@ -1,7 +1,7 @@
 # Hey there! 👋 
-## My name's Dominic and I'm a software engineer
+## I'm Dominic and I'm a software engineer
 
-Professionally, I work as a front end developer specializing in core UI development, technical migrations, and project architecture,  Privately, I'm always working on something I'd want to see in the world, software or otherwise.
+Professionally, I primarily work as a front end developer specializing in core UI development, technical migrations, and project architecture. Privately, I'm always working on something I'd want to see in the world, software or otherwise.
 
 * 🗽  Based in NYC
 * 🖥️  Checkout my portfolio at [domsilva.com](http://domsilva.com)
